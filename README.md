@@ -59,7 +59,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maryam-saddique/" target="_blank">
-    <img src="https://img.shields.io/badge/🔗 LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/🔗 LinkedIn-blue?style=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mar.ium2900@gmail.com">
     <img src="https://img.shields.io/badge/📧 Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
