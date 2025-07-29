@@ -38,7 +38,7 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=merry345678m&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=merry345678m&theme=tokyonight" />
 </p>
 
 ---
