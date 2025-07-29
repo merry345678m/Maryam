@@ -54,18 +54,17 @@
 <p align="center"><i>"First, solve the problem. Then, write the code." – John Johnson</i></p>
 
 ---
-
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/maryam-saddique/" target="_blank">
-    <img src="https://img.shields.io/badge/🔗 style=for-the-badge&logo=gmail&logoColor=white />
+  <a href="https://www.linkedin.com/in/maryam-saddique/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mar.ium2900@gmail.com">
-    <img src="https://img.shields.io/badge/📧 style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/merry345678m" target="_blank">
-    <img src="https://img.shields.io/badge/💻 style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/merry345678m">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
