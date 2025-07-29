@@ -1,6 +1,6 @@
 <!-- Header Section with GIF -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=440&lines=Hi+there+👋%2C+I'm+Maryam+Sadd;React+%7C+MERN+Stack+Developer;Software+Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=440&lines=Hi+there+👋%50C+I'm+Maryam+Saddique;React+%50C+MERN+Stack+Developer;Software+Engineering+Student" alt="Typing SVG" />
 </p>
 
 <h3 align="center">🚀 Transforming Ideas into Scalable Web Apps</h3>
